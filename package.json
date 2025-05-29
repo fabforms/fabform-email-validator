@@ -1,0 +1,29 @@
+{
+  "name": "simple-email-validator",
+  "version": "1.0.0",
+  "description": "A minimal and reliable JavaScript utility to validate email address format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "email",
+    "validator",
+    "validation",
+    "email-validator",
+    "email-validation",
+    "simple",
+    "verify-email",
+    "check-email",
+    "email-check",
+    "regex",
+    "form-validation"
+  ],
+  "author": "Geoffrey Callaghan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabforms/simple-email-validation.git"
+  }
+}
+
